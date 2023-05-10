@@ -1,0 +1,347 @@
+.THE-HANG-OUT {
+
+    color: white;
+    font-family: Arial, "montserrat", Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+.THE-HANG-OUT{
+    text-decoration: none;
+}
+head {
+    resize: both;
+}
+
+body {
+    background-color: rgb(8, 8, 56);
+}
+
+
+
+.main-head {
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+    resize: both;
+    ;
+}
+
+.main-head {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    resize: both;
+}
+
+.home-page {
+    background-color: transparent;
+    border: none;
+    color: aliceblue;
+    cursor: pointer;
+    flex: 1;
+    margin-left: 1300px;
+    font-weight: bold;
+    resize: both;
+}
+
+.home-page:hover {
+    color: yellow;
+    transition: 1s;
+    resize: both;
+}
+
+.SERVER-NEWS {
+    background-color: transparent;
+    border: none;
+    color: white;
+    margin-left: 30px;
+    font-weight: bold;
+    resize: both;
+}
+
+.SERVER-NEWS:hover {
+
+    color: yellow;
+    transition: 1s;
+
+}
+
+.CONTACT {
+    background-color: transparent;
+    border: none;
+    color: white;
+    margin-left: 48px;
+    font-weight: bold;
+    resize: both;
+}
+
+.CONTACT:hover {
+    color: yellow;
+    transition: 1;
+
+}
+
+.THE-FEATURES-OF-OUR-SERVER {
+    display: grid;
+    grid-template-columns: 1500px;
+    resize: both;
+}
+
+.h1 {
+    color: white;
+    margin-top: 50px;
+    margin-left: 570px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 45px;
+    resize: both;
+}
+
+.h2 {
+    margin-top: 50px;
+    padding-right: 500px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 77px;
+    margin-left: 770px;
+    resize: both;
+}
+
+.h2 {
+    display: grid;
+    grid-template-columns: 500px;
+
+}
+
+.the-first-img {
+    display: flex;
+    align-items: center;
+    margin-top: 70px;
+    margin-left: 577px;
+    border-color: white;
+    border: 1px solid white;
+    width: 735px;
+    display: flex;
+    align-items: center;
+    resize: both;
+}
+
+.the-text1 {
+    margin-bottom: 30px;
+    padding-left: 25px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    resize: both;
+}
+
+.the-text1 {
+    display: grid;
+    grid-template-columns: 400px;
+    resize: both;
+}
+
+
+.the-first-button {
+    display: flex;
+    align-items: center;
+    resize: both;
+}
+
+.the-first-button {
+    color: yellow;
+    background-color: transparent;
+    border: none;
+    margin-top: 200px;
+
+}
+
+.the-first-button:hover {
+    color: greenyellow;
+    transition: 0.6s;
+}
+
+.BBS {
+    height: 1400px;
+    resize: both;
+}
+
+
+.the-second-img {
+    display: flex;
+    align-items: flex;
+    margin-top: 77px;
+    margin-left: 577px;
+    border-color: white;
+    border: 1px solid white;
+    width: 735px;
+    display: flex;
+    align-items: center;
+    resize: both;
+}
+
+.the-text2 {
+
+
+    margin-bottom: 30px;
+    padding-left: 25px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    resize: both;
+
+}
+
+.the-text2 {
+    display: grid;
+    grid-template-columns: 400px;
+}
+
+.the-second-button {
+    display: flex;
+    align-items: center;
+    resize: both;
+
+}
+
+.the-second-button {
+    color: yellow;
+    background-color: transparent;
+    border: none;
+    margin-top: 200px;
+
+}
+
+.the-second-button:hover {
+    color: greenyellow;
+    transition: 0.6s;
+}
+
+
+
+
+
+.the-third-img {
+    display: flex;
+    align-items: flex;
+    margin-top: 70px;
+    margin-left: 577px;
+    border-color: white;
+    border: 1px solid white;
+    width: 735px;
+    
+    align-items: center;
+    resize: both;
+}
+
+.the-text1 {
+
+
+    margin-bottom: 30px;
+    padding-left: 25px;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+    resize: both;
+
+}
+
+.the-text1 {
+    display: grid;
+    grid-template-columns: 400px;
+}
+
+.the-third-button {
+    display: flex;
+    align-items: center;
+    resize: both;
+
+}
+
+.the-third-button {
+    color: yellow;
+    background-color: transparent;
+    border: none;
+    margin-top: 200px;
+    cursor: pointer;
+
+}
+
+.the-third-button:hover {
+    color: greenyellow;
+    transition: color 0.6s;
+}
+
+.r-button {
+    background-color: white;
+    border-color: white;
+    color: black;
+    width: 142px;
+    height: 40px;
+    border-width: 0.1px;
+    margin-left: 855px;
+    font-family: 'Montserrat', sans-serif;
+    resize: both;
+}
+
+
+.r-button:hover {
+    color: white;
+    background-color: transparent;
+    transition: 0.3s;
+
+
+}
+
+.hr2 {
+    margin-top: 100px;
+    resize: both;
+}
+
+.THO {
+    margin-left: 460px;
+    color: white;
+    resize: both;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.THO:hover {
+    
+    color: yellow;
+        transition: 0.7s;
+}
+
+
+.basa{
+    display: flex;
+    align-items: center;
+    resize: both;
+}
+
+.to-the-top {
+    margin-left: 700px;
+    resize: both;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+.to-the-top:hover {
+    color: yellow;
+    transition: 0.7s;
+
+}
+
+.THO:hover{
+    padding-top: 10px;
+    transition: 0.2s;
+}
+
+
